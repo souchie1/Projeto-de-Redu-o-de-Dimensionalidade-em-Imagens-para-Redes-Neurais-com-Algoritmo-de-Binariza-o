@@ -1,0 +1,1 @@
+# Projeto-de-Redu-o-de-Dimensionalidade-em-Imagens-para-Redes-Neurais-com-Algoritmo-de-Binariza-o
